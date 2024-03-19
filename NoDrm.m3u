@@ -1,0 +1,3 @@
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://media.axprod.net/TestVectors/v9-MultiFormat/Clear/Manifest_1080p.mpd
